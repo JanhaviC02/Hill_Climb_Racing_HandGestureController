@@ -28,12 +28,12 @@ You need Python 3.x installed along with the following libraries:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/hand-gesture-hill-climb.git
+   https://github.com/your-username/Hill_Climb_Racing_HandGestureController.git
    ```
 
 2. **Navigate to the project folder**:
    ```bash
-   cd hand-gesture-hill-climb
+   cd Hill_Climb_Racing_HandGestureController
    ```
 
 3. **Install the required dependencies**:
